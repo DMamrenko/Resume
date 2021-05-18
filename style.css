@@ -1,0 +1,68 @@
+html{
+    font-size: 62.5%;
+    font-family: "Times New Roman", Times, serif;
+    background-color: #a6a6a6;
+}
+
+.top{
+    background-color: gainsboro;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.name{
+    font-size: 5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.contact{
+    font-size: 2.5rem;
+    text-align: center;
+}
+#summary{
+    font-size: 1.75rem;
+    text-align: center;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+
+/* General */
+.res_section_title{
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+.section_div{
+    margin: 0rem 8rem 2rem 8rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    background-color: gainsboro;
+}
+.section_div li{
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+.section_div .used{
+    font-size: 1.5rem;
+    list-style-type: square;
+    font-style: italic;
+}
+.section_div .used a{
+    font-style: normal;
+}
+
+/* Education */
+#res_section_info{
+    font-size: 2rem;
+}
+
+/* Experience */
+.position_location_time{
+    font-size: 2rem;
+}
+
+/* Projects */
+.project_time{
+    font-size: 2rem;
+}
